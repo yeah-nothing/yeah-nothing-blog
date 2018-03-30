@@ -152,6 +152,12 @@ img.blog-header {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  position: absolute;
+  top: 100px;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
 }
 
 #blog, #post {
@@ -196,7 +202,7 @@ img.blog-header {
 	call-to-action Start
 --*/
 #buy {
-  background: url("../img/call-to-action-bg.jpg") no-repeat;
+  background: url("../img/splatter-background.png") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   padding: 70px 0px;
@@ -406,7 +412,7 @@ box-shadow: 0px 0px 40px #777;
 	Slider-work Start
 --*/
 #global-header {
-  background: url("../img/background.p") no-repeat;
+  background: url("../img/splatter-background.png") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -436,7 +442,7 @@ box-shadow: 0px 0px 40px #777;
   font-size: 45px;
   letter-spacing: 6px;
   padding-bottom: 15px;
-  margin-top: 0;
+  margin-top: 25px;
   text-transform: capitalize;
 }
 #global-header .block p {
