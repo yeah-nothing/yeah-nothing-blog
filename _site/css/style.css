@@ -160,6 +160,25 @@ img.blog-header {
   margin: auto;
 }
 
+img.blog-header-2 {
+  margin-top: 50px;
+  border-radius: 50%;
+  border: 3px solid;
+  width: 315px;
+  height: 315px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  top: 5px;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+}
+
+
+
 #blog, #post {
     padding: 50px 0 40px;
 }
@@ -459,6 +478,41 @@ text-shadow: 0 0 5px rgba(255, 255, 255, 1);
 }
 
 #global-header .block p {
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+}
+
+/* global header-2 */
+
+#global-header-2 {
+  background-size: cover;
+  padding-top: 150px;
+  padding-bottom: 107px;
+  position: relative;
+  background-attachment: fixed;
+}
+#global-header-2:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+
+}
+#global-header-2 .block {
+  color: #E3E3E4;
+  margin: 0 auto;
+  padding-left: 90px;
+  text-align: center;
+}
+
+
+#global-header-2 .block p {
   font-size: 16px;
   font-weight: 300;
   letter-spacing: 1px;
