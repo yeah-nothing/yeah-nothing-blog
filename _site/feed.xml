@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Great web agency</title>
+    <title>yeah-nothing.com</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Apr 2018 16:30:19 -0700</pubDate>
-    <lastBuildDate>Sun, 01 Apr 2018 16:30:19 -0700</lastBuildDate>
+    <pubDate>Mon, 02 Apr 2018 17:03:26 -0700</pubDate>
+    <lastBuildDate>Mon, 02 Apr 2018 17:03:26 -0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
-        <title>Dunce_Draft</title>
+        <title>Dunce_draft</title>
         <description>&lt;div class=&quot;exif_embed&quot; data-id=&quot;7895&quot;&gt;&lt;/div&gt;
 &lt;script async=&quot;&quot; src=&quot;https://embed.exif.co/exif.js&quot;&gt;&lt;/script&gt;
 
