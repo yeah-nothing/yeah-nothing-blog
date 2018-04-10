@@ -1,6 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
-@import url(http://fonts.googleapis.com/css?family=Volkhov:400italic);
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
 /* var text-decoration */
 /*--
 	Common Css
@@ -166,15 +165,15 @@ font header .navbar-default .navbar-nav li a:hover {
 
 
 .text {
-  fill: #f2f2f2;
+  fill: #ffffff;
   stroke-width: 3;
   letter-spacing: 20px;
-  text-shadow: 0 0 16px #00ffdc;
   stroke-linejoin: round;
   stroke-dasharray: 70 330;
   stroke-dashoffset: 0;
   -webkit-animation: stroke 6s infinite linear;
   animation: stroke 6s infinite linear;
+  text-shadow: 0px 20px 5px rgb(66, 66, 66);
 }
 
 .text:nth-child(5n + 1) {
