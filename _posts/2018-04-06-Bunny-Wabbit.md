@@ -4,10 +4,11 @@ title: Bunny_Wabbit
 date: 2018-04-06 9:30
 image:
 lead:
-catogories: Bunny
-
+catogories: [ Bunny, Wabbit ]
 subtitle: appears in header of blog posts
 author: yeah-nothing
+thumbnail: /img/nav-image.png
+header-img: /img/nav-image.png
 ---
 
 [http://yeah-noth.in/2Bpg4Cg]: http://yeah-noth.in/2Bpg4Cg
