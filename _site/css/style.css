@@ -206,26 +206,35 @@ img.main-header {
 
 
 .text {
-  fill: #ffffff;
-  stroke-width: 3;
-
-  stroke-linejoin: round;
-  stroke-dasharray: 70 330;
-  stroke-dashoffset: 0;
-  -webkit-animation: stroke 6s infinite linear;
-  animation: stroke 6s infinite linear;
-  -webkit-box-sizing: content-box;
-  -moz-box-sizing: content-box;
-  box-sizing: content-box;
-  border: none;
-  font: normal 50px/normal "Chau Philomene One", Helvetica, sans-serif;
-  color: rgb(51, 51, 51);
-  text-align: center;
-  -o-text-overflow: clip;
-  text-overflow: clip;
-  letter-spacing: 3px;
-  text-shadow: -3px 0 1px rgb(30,242,241), 3px 0 1px rgb(246,5,10);
-  font-size: 150px;
+fill: #ffffff;
+stroke-width: 3;
+stroke-linejoin: round;
+stroke-dasharray: 70 330;
+stroke-dashoffset: 0;
+-webkit-animation: stroke 6s infinite linear;
+animation: stroke 6s infinite linear;
+-webkit-box-sizing: content-box;
+-moz-box-sizing: content-box;
+box-sizing: content-box;
+border: none;
+font: normal 50px/normal "Chau Philomene One", Helvetica, sans-serif;
+color: rgb(51, 51, 51);
+text-align: center;
+-o-text-overflow: clip;
+text-overflow: clip;
+letter-spacing: 3px;
+/* text-shadow: -3px 0 1px rgb(30,242,241), 3px 0 1px rgb(246,5,10); */
+-webkit-box-sizing: content-box;
+-moz-box-sizing: content-box;
+box-sizing: content-box;
+border: none;
+font: normal normal 900 70px/normal "Aldrich", Helvetica, sans-serif;
+color: rgb(32, 44, 45);
+/* text-align: center; */
+-o-text-overflow: clip;
+text-overflow: clip;
+text-shadow: 0 1px 0 rgb(128,141,147), -1px 0 0 rgb(205,210,213), -1px 2px 0 rgb(128,141,147), -2px 1px 0 rgb(205,210,213), -2px 3px 0 rgb(128,141,147), -3px 2px 0 rgb(205,210,213), -3px 4px 0 rgb(128,141,147), -4px 3px 0 rgb(205,210,213), -4px 5px 0 rgb(128,141,147), -5px 4px 0 rgb(205,210,213), -5px 6px 0 rgb(128,141,147), -6px 5px 0 rgb(205,210,213), -6px 7px 0 rgb(128,141,147), -7px 6px 0 rgb(205,210,213), -7px 8px 0 rgb(128,141,147), -8px 7px 0 rgb(205,210,213);
+font-size: 100px;
 }
 
 .text:nth-child(5n + 1) {
@@ -283,9 +292,38 @@ svg {
   right: 0px;
   left: 0px;
   margin: auto;
-  width: 50%;
-  height: 50%;
-  background-color: #f1f1f1;
+}
+
+.rotate {
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+}
+
+.rectangle {
+   animation-name: ckw;
+    animation-duration: 5s;
+    /* Things added */
+    animation-iteration-count: infinite;
+    display: inline-block;
+  transform-origin: 50% 50%;
+}
+@keyframes ckw {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+
+}
+
+svg.rotate {
+  background-color: #fff;
+  background-color: #fff;
+  display: block;
 }
 
 /*--
