@@ -8,6 +8,7 @@ catogories: Dunce
 
 subtitle: appears in header of blog posts
 author: yeah-nothing
+thumbnail: img/Dunce_Draft_Thumbnail.jpg
 ---
 
 [http://yeah-noth.in/2DCuAMY]: http://yeah-noth.in/2DCuAMY

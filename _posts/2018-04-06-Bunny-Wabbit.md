@@ -7,8 +7,7 @@ lead:
 catogories: [ Bunny, Wabbit ]
 subtitle: appears in header of blog posts
 author: yeah-nothing
-thumbnail: /img/nav-image.png
-header-img: /img/nav-image.png
+thumbnail: img/Bunny_Wabbit_1a_thumbnail.jpg
 ---
 
 [http://yeah-noth.in/2Bpg4Cg]: http://yeah-noth.in/2Bpg4Cg

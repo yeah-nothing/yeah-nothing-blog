@@ -8,6 +8,7 @@ catogories: Bunny
 
 subtitle: appears in header of blog posts
 author: yeah-nothing
+thumbnail: img/Bunny_Wabbit_Thumbnail.jpg
 ---
 
 [http://yeah-noth.in/2Bpg4Cg]: http://yeah-noth.in/2Bpg4Cg
