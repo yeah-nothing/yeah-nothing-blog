@@ -3,9 +3,9 @@ layout: post
 title: Bunny_Wabbit
 date: 2018-04-06 9:30
 image:
-lead:
+lead: yeah-nothing
 catogories: [ Bunny, Wabbit ]
-subtitle: appears in header of blog posts
+subtitle: 
 author: yeah-nothing
 thumbnail: img/Bunny_Wabbit_1a_thumbnail.jpg
 ---
