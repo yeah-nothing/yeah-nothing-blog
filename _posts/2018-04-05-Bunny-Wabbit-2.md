@@ -10,11 +10,27 @@ subtitle: appears in header of blog posts
 author: yeah-nothing
 thumbnail: img/Bunny_Wabbit_Thumbnail.jpg
 ---
+<style>
+.btn {
+margin: 25px;
+border: solid 3px;
+border-color: black
+}
 
-[http://yeah-noth.in/2Bpg4Cg]: http://yeah-noth.in/2Bpg4Cg
+a.btn {
+    font-size: large;
+}
+</style>
 
-### Buy here [http://yeah-noth.in/2Bpg4Cg] ###
+<div align="center">
+<a class="btn" href="http://yeah-noth.in/2E3Uiqo" target="_blank">BUY</a>
+</div>
+
 
 <div class='exif_embed' data-id='7893'></div><script async src='https://embed.exif.co/exif.js'></script>
 
 # Bunny_Wabbit_2 #
+
+<div align="center">
+<a class="btn" href="http://yeah-noth.in/2E3Uiqo" target="_blank">BUY</a>
+</div>

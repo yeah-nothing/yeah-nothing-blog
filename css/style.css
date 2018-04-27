@@ -417,7 +417,7 @@ img.blog-header-2 {
   font-size: 14px;
   line-height: 1.6;
 }
-#buy .btn-call-to-action {
+#buy .btn-call-to-action { 
   border: solid 3px;
   border-color: black;
   background-color: #fff;
