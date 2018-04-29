@@ -383,6 +383,11 @@ img.blog-header-2 {
     box-shadow: 0px 0px 40px #777;
 }
 
+.samples img:hover {
+    box-shadow: 0px 0px 40px #05f5c3;
+}
+
+
 /*--
 	call-to-action Start
 --*/
@@ -417,7 +422,7 @@ img.blog-header-2 {
   font-size: 14px;
   line-height: 1.6;
 }
-#buy .btn-call-to-action { 
+#buy .btn-call-to-action {
   border: solid 3px;
   border-color: black;
   background-color: #fff;

@@ -3,7 +3,7 @@ layout: post
 title: Bunny_Wabbit
 date: 2018-04-06 9:30
 image:
-lead: yeah-nothing
+lead: 
 catogories: [ Bunny, Wabbit ]
 subtitle:
 author: yeah-nothing
@@ -26,7 +26,7 @@ a.btn {
 <a class="btn" href="http://yeah-noth.in/2Bpg4Cg" target="_blank">BUY</a>
 </div>
 
-<a href="http://yeah-noth.in/2Bpg4Cg" target="_blank">BUY</a>
+
 
 <div class='exif_embed' data-id='7892'></div><script async src='https://embed.exif.co/exif.js'></script>
 
