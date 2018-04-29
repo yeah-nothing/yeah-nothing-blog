@@ -3,10 +3,10 @@
   <channel>
     <title>yeah-nothing.com</title>
     <description>Please take a moment to view my digital artwork</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Apr 2018 12:12:02 -0700</pubDate>
-    <lastBuildDate>Sun, 29 Apr 2018 12:12:02 -0700</lastBuildDate>
+    <link>https://yeah-nothing.github.io/yeah-nothing-blog/</link>
+    <atom:link href="https://yeah-nothing.github.io/yeah-nothing-blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 29 Apr 2018 15:38:54 -0700</pubDate>
+    <lastBuildDate>Sun, 29 Apr 2018 15:38:54 -0700</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -37,8 +37,8 @@ a.btn {
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 06 Apr 2018 09:30:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/04/06/Bunny-Wabbit.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/04/06/Bunny-Wabbit.html</guid>
+        <link>https://yeah-nothing.github.io/yeah-nothing-blog/2018/04/06/Bunny-Wabbit.html</link>
+        <guid isPermaLink="true">https://yeah-nothing.github.io/yeah-nothing-blog/2018/04/06/Bunny-Wabbit.html</guid>
         
         
       </item>
@@ -71,8 +71,8 @@ a.btn {
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 05 Apr 2018 09:56:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/04/05/Dunce-2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/04/05/Dunce-2.html</guid>
+        <link>https://yeah-nothing.github.io/yeah-nothing-blog/2018/04/05/Dunce-2.html</link>
+        <guid isPermaLink="true">https://yeah-nothing.github.io/yeah-nothing-blog/2018/04/05/Dunce-2.html</guid>
         
         
       </item>
@@ -105,8 +105,8 @@ a.btn {
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 05 Apr 2018 09:56:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/04/05/Bunny-Wabbit-2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/04/05/Bunny-Wabbit-2.html</guid>
+        <link>https://yeah-nothing.github.io/yeah-nothing-blog/2018/04/05/Bunny-Wabbit-2.html</link>
+        <guid isPermaLink="true">https://yeah-nothing.github.io/yeah-nothing-blog/2018/04/05/Bunny-Wabbit-2.html</guid>
         
         
       </item>
@@ -139,8 +139,8 @@ a.btn {
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 25 Mar 2018 09:56:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/03/25/Dunce-Draft.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/03/25/Dunce-Draft.html</guid>
+        <link>https://yeah-nothing.github.io/yeah-nothing-blog/2018/03/25/Dunce-Draft.html</link>
+        <guid isPermaLink="true">https://yeah-nothing.github.io/yeah-nothing-blog/2018/03/25/Dunce-Draft.html</guid>
         
         
       </item>
